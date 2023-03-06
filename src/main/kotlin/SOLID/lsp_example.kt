@@ -1,0 +1,5 @@
+package SOLID
+
+fun main() {
+
+}
